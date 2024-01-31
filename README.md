@@ -1,4 +1,4 @@
-# css2024_day01
+# repo01
 
 Welcome to the coding summer school
 
